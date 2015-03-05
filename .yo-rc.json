@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "mop",
+    "packageName": "com.klgnks.mop",
+    "packageFolder": "com/klgnks/mop",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "c23266f95d0b7e939f283fa709b029c0ff95d02c"
+  }
+}
